@@ -10,7 +10,7 @@ public class SpringBootDemoProjectApplication extends SpringBootServletInitializ
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDemoProjectApplication.class, args);
-		System.out.println("Hello DevOps :)");
+		System.out.println("Success :)");
 	}
 
 }
